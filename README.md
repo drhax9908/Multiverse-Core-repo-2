@@ -1,3 +1,5 @@
+NOTE: I am not the creator of multiverse. I copied the repo as I needed a second one, and already have a fork.
+
 Building
 ========
 Simply build the source with maven:
